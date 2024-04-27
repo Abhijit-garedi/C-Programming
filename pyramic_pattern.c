@@ -1,4 +1,5 @@
 // simple c program to print pyramid pattern 
+// sulta pyramid
 
 #include <stdio.h>
 
