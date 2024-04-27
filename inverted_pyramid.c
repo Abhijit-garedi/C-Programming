@@ -1,4 +1,5 @@
-// inverted pyramid or ulta pyramid
+// inverted pyramid or ulta pyramid 
+// using for loop in form of i and j
 
 #include <stdio.h>
 
