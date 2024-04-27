@@ -1,4 +1,5 @@
-// simple c program to print stars pattern 
+// simple c program to print stars pattern  
+//
 
 #include <stdio.h>
 
