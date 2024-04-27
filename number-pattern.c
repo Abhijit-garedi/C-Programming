@@ -1,4 +1,4 @@
-// a very simple c program to print number patters 
+// a very simple c program to print number patters  
 
 #include <stdio.h>
 
