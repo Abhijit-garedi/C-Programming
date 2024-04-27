@@ -16,6 +16,7 @@
             printf("Given number is positive");
 
          }
+         
          else 
          {
             printf("given number is negative");
