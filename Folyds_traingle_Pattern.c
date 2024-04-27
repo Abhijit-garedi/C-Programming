@@ -1,4 +1,4 @@
-// Floyds Traingle Pattern
+// Floyds Traingle Pattern 
 
  #include <stdio.h>
 
