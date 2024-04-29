@@ -46,6 +46,8 @@
           // Free dynamicall allocated memory
           free(arr);
 
+          return 0;
+
 
 
 
