@@ -15,6 +15,8 @@
         printf("Enter the size of the array; ");
         scanf("%d",&size);
         
+        //Dynamically allocated memory for the array
+        arr = (int *)malloc(size * sizeof(int));
 
 
        }
