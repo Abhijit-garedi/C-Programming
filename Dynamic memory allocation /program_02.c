@@ -32,7 +32,11 @@
             scanf("%d", arr[i]);
 
         }
-        
+
+
+        //Display element of the array 
+        printf("Elements of the array:\n");
+
 
 
 
