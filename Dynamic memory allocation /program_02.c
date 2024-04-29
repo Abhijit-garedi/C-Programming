@@ -18,5 +18,12 @@
         //Dynamically allocated memory for the array
         arr = (int *)malloc(size * sizeof(int));
 
+        //check if memory allocation was sucessful
+        if (arr == NULL)
+        {
+            printf("memory allocation failed.Existing")
+        }
+
+
 
        }
