@@ -21,7 +21,8 @@
         //check if memory allocation was sucessful
         if (arr == NULL)
         {
-            printf("memory allocation failed.Existing")
+            printf("memory allocation failed.Existing");
+            return 1;
         }
 
 
