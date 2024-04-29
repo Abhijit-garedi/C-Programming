@@ -36,6 +36,15 @@
 
         //Display element of the array 
         printf("Elements of the array:\n");
+        for (i = 0; i< size; i++)
+        {
+            printf("%d", arr[i]);
+        }
+          
+          printf("\n");
+
+          // Free dynamicall allocated memory
+          free(arr);
 
 
 
