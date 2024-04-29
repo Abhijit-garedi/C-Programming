@@ -25,6 +25,13 @@
             return 1;
         }
 
+        //Input elements into the array
+        printf("Enter %d elements:\n",size);
+        for(i = 0; i<size; i++);
+        {
+            
+        }
+
 
 
        }
