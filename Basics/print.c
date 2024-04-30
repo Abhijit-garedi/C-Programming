@@ -4,4 +4,6 @@
  int main()
  {
     printf("abhijit kumar garedi");
+
+    return 0;
  }
