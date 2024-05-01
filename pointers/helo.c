@@ -1,1 +1,1 @@
-// a c program 
+// a c program for switch case 
