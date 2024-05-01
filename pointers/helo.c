@@ -8,4 +8,7 @@
     int x;
     int a;
 
+    printf("enter the options");
+    scanf("%d",&x);
+
   }
