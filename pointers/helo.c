@@ -11,4 +11,9 @@
     printf("enter the options");
     scanf("%d",&x);
 
+    switch(x)
+    {
+        
+    }
+
   }
