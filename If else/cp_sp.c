@@ -4,7 +4,19 @@
  #include <stdio.h>
     int main()
      {
-        int cp,sp,a;
+        
+        int sp;
+        int cp = 100;
 
-        printf("enter the ")
+        printf("enter the selling price (sp): ");
+        scanf("%d",&sp);
+
+        if( sp < cp )
+        {
+         printf("loss");
+        }
+        else
+        {
+         printf("profit");
+        }
      }
