@@ -8,8 +8,9 @@
         int n1,n2;
         printf("enter 2 values of swap:");
         scanf("%d%d",&n1,&n2);
+        printf("values in main function before swapping:")
 
-        
+
 
 
 
