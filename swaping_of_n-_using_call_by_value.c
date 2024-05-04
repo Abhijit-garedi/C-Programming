@@ -6,7 +6,7 @@
     {
 
         int n1,n2;
-        printf("")
+        printf("enter 2 values of swap:");
 
 
 
